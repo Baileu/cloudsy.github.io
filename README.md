@@ -1,5 +1,4 @@
-# The Cloud Factory
-My personal website along with The Cloud Factory *(my bots)* website aswell!
-Very much a WiP and it'll will get better!
+# [Bailey's Website](https://cloudsy.ml)
+My website, learn about me and my projects!
 Leave suggestions if you have any or create a pull request.
 - Have a good day !
